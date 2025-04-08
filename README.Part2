@@ -1,0 +1,6 @@
+# Part 2: Loops and Arrays - C++ Implementation
+
+## 1. Print Even Numbers from 1 to 50
+
+A `for` loop is used to check numbers from 1 to 50.  
+If a number is divisible by 2, it is even and printed.
