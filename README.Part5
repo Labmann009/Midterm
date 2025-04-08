@@ -1,0 +1,11 @@
+# Part 5: Switch Case - C++ Calculator
+
+## Objectives:
+Create a simple calculator using a `switch` statement to perform: Addition, Subtraction, Multiplication and Division
+
+## How It Works:
+- The user is prompted to enter:
+  1. First number (`double`)
+  2. An operator (`+`, `-`, `*`, `/`)
+  3. Second number (`double`)
+- A `switch` case evaluates the operator and performs the corresponding operation.
