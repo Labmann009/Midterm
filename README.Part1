@@ -1,0 +1,24 @@
+## 1. calculateArea()
+
+This function takes two `float` parameters: `length` and `width`. It returns the area of a rectangle using the formula:
+### Example:
+Input: `length = 5.0`, `width = 3.0`  
+Output: `15.0`
+## 2. isPrime()
+
+This function takes an `int` parameter and checks whether it is a prime number.
+
+- If the number is less than or equal to 1, return `false`.
+- Otherwise, check if the number is divisible by any integer from 2 to (number - 1).
+- If it is divisible, it's not prime.
+- If no divisor is found, it is prime and returns `true`.
+
+### Example:
+Input: `7`  
+Output: `true` (because 7 is a prime)
+
+---
+
+## 3. Main Function
+
+The `main()` function demonstrates both `calculateArea()` and `isPrime()` with example values.
