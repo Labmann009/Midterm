@@ -1,0 +1,10 @@
+# Part 3: CIN and Variables - C++ Implementation
+
+## 1. User Input with `cin`
+
+This section asks the user for:
+- Name (string)
+- Age (integer)
+- Favorite number (integer)
+
+These values are then printed in a formatted output using `cout`.
